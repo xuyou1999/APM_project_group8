@@ -1,14 +1,9 @@
 # APM_project_group8
 
+## Download logs
+Download the logs from the following link and put them in the folder `data`:
+https://we.tl/t-7Yg0AtYakF
+
 ## Setup
-require graphviz
-Command for Mac brew install graphviz
-
-
-## Visualizations
-- Number of traces by year and month
-- Distribution of traces by endevent
-- Distribution of traces by credit type
-- Distribution of traces by credit goal
-Endevent by credit type/goal
-Distribution of number of events in the trace
+- Require graphviz
+    - Command for Mac `brew install graphviz`
