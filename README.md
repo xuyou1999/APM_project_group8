@@ -17,7 +17,7 @@ https://we.tl/t-7Yg0AtYakF
 - Python 3.9 with the following packages:
     - pm4py
     - pandas
-    - sklearn import tree
+    - sklearn
     - matplotlib
     - numpy
 - Graphviz
