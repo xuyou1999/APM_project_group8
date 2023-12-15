@@ -22,7 +22,3 @@ https://we.tl/t-7Yg0AtYakF
     - numpy
 - Graphviz
     - Command for Mac `brew install graphviz`
-
-## Setup
-- Require graphviz
-    - Command for Mac `brew install graphviz`
