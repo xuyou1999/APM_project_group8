@@ -20,5 +20,44 @@ https://we.tl/t-epV1feJaz5
     - sklearn
     - matplotlib
     - numpy
-- Graphviz
-    - Command for Mac `brew install graphviz`
+    - Graphviz
+    - seaborn
+ 
+## Setup Instructions
+
+### Verify Python Version:
+Ensure that you have Python 3.9 installed on your system. You can check your Python version by running the following command in your terminal or command prompt:
+
+`bash
+python --version`
+
+### Install Required Dependencies:
+Make sure you have the necessary dependencies installed. Run the following commands to install them:
+
+`pip install pm4py pandas scikit-learn matplotlib numpy graphviz seaborn`
+
+### Verify Jupyter Notebook Installation:
+Ensure that Jupyter Notebook is installed on your machine. You can check by running:
+
+`jupyter notebook --version`
+
+If not installed, you can install it using:
+
+`pip install notebook`
+
+### Download Data:
+Obtain the necessary log files (OA_events.xes and end_A_event_log.xes) and place them in the appropriate directory. To download the log files, please refer to the [Logs](#logs) section.
+
+### Run Jupyter Notebooks:
+Open a terminal or command prompt, navigate to the directory containing the Jupyter notebooks (exploration_final.ipynb and encoding_prediction_final.ipynb), and run the following commands:
+
+ `jupyter notebook exploration_final.ipynb`
+
+ After completing the exploration, run:
+
+ `jupyter notebook encoding_prediction_final.ipynb`
+
+This will launch Jupyter Notebook in your web browser, allowing you to execute each cell in the notebook sequentially.
+
+### Follow Notebook Instructions:
+Inside the Jupyter notebooks, follow the instructions for data exploration, preprocessing, modeling, and evaluation. Execute each cell in order to progress through the analysis steps.
