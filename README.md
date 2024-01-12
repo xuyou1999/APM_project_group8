@@ -11,7 +11,7 @@ This is the course project of Advanced Process Mining at TU/e. The goal of this 
 The event log of this project is based on the BPI Challenge 2017. The log is preprocessed and can be found in the following link.
 
 Download the logs from the following link and put them in the folder `data`:
-https://we.tl/t-epV1feJaz5
+https://we.tl/t-9m35raQtKm
 
 ## Requirements
 - Python 3.9 with the following packages:
